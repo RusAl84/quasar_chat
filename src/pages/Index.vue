@@ -59,23 +59,18 @@ export default defineComponent({
       // messages: [
       //   {
       //     UserName: "RusAl",
-      //     MessageText: "Privet na sto let!!!",
+      //     MessageText: "Добрый день",
       //     TimeStamp: "12:40",
       //   },
       //   {
-      //     UserName: "RusAl",
-      //     MessageText: "Privet na sto let!!!",
-      //     TimeStamp: "12:40",
+      //     UserName: "Ёжик",
+      //     MessageText: "Привет",
+      //     TimeStamp: "12:43",
       //   },
       //   {
       //     UserName: "RusAl",
-      //     MessageText: "Privet na sto let!!!",
-      //     TimeStamp: "12:40",
-      //   },
-      //   {
-      //     UserName: "RusAl",
-      //     MessageText: "Privet na sto let!!!",
-      //     TimeStamp: "12:40",
+      //     MessageText: "Как дела?",
+      //     TimeStamp: "12:44",
       //   },
       //   {
       //     UserName: "RusAl",
